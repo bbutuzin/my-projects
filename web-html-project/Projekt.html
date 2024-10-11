@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <meta charset="utf-8">
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+    <script src="komande.js"></script>
+
+
+  <title>Projekt</title>
+
+      <style>
+      .footer-color {
+        color: white;
+      }
+    </style>
+
+</head>
+
+<body>
+  <nav class="navbar fixed-top navbar-expand-lg navbar-fixed-top navbar-dark bg-dark"> 
+    
+    <a class="navbar-brand">
+      <img src="fajlovi/logo.png" width="30" height="30" alt="">
+    </a>
+    <a class="navbar-brand" href="#" id="PocetnaButton">Sunacionalana statistika</a>
+
+    <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
+      <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+        <li class="nav-item active">
+          <a class="nav-link" href="#" id="PodaciButton">Podaci<span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#"></a>
+        </li>
+      </ul>
+      <div id="podaci">
+        <form class="form-inline my-2 my-lg-0">
+          <input class="form-control mr-sm-2" id="inputEmail" placeholder="Korisničko ime:" aria-label="Username">
+          <input class="form-control mr-sm-2" id="inputPassword" placeholder="Lozinka:" aria-label="Password">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="button" id="LogginButton">log in </button>
+        </form>
+    </div>
+    </div>
+    
+</nav>
+
+
+<section class="py-5 text-center container">
+    <div class="row py-lg-5">
+      <div class="col-lg-10 col-md-8 mx-auto">
+        <h1 class="fw-light">Subnacionalna statistika</h1>
+        <p class="lead text-muted" s>Europski gradovi se suočavaju s raznim izazovima: od starenja stanovništva, preko migracija i urbane raštrkanosti, pa do suprotstavljanja klimatskim promjenama. Vođenje evidencije je potrebno da se vidi napredak ili pad i mjere koje se moraju poduzeti o danim podacima. Statistika o urbanim područjima nam govori o broju nasilnih smrti,broju privatnih registriranih automobila i broju noćenja. Neke od ovih informacija će nam pokazati životni standard, a i utjecaj turizma na Hrvatsku ekonomiju i gospodarstvo. Stranica se bavi proučavanjem sljedećih gradova:</p>
+      </div>
+    </div>
+  </section>
+
+<main>
+  <div class="container" id="container">
+      <div class="album py-5 bg-light">
+
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+        
+        <div class="col">
+          <div class="card shadow-sm">
+            <img src="fajlovi/zagreb.jpg" width="100%" height="225px">
+
+            <div class="card-body">
+              <p class="card-text"><b>Zagereb</b> - možete pročitati općenite informacije o gradu na sljedećem <a href="https://hr.wikipedia.org/wiki/Zagreb" target="_blank">link-u</a></p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card shadow-sm">
+            <img src="fajlovi/split.jpg" width="100%" height="225px">
+
+            <div class="card-body">
+              <p class="card-text"><b>Split</b> - možete pročitati općenite informacije o gradu na sljedećem <a href="https://hr.wikipedia.org/wiki/Split" target="_blank">link-u</a></p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card shadow-sm">
+            <img src="fajlovi/zadar.jpg" width="100%" height="225px">
+
+            <div class="card-body">
+              <p class="card-text"><b>Zadar</b> - možete pročitati općenite informacije o gradu na sljedećem <a href="https://hr.wikipedia.org/wiki/Zadar" target="_blank">link-u</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+        <div class="row" style="margin-top: 3%; padding: 0;">
+        
+        <div class="col">
+          <div class="card shadow-sm" style="width: 65%; margin-right: 3%; float: right;">
+            <img src="fajlovi/slavonski_brod.jpg" width="100%" height="225px">
+            <div class="card-body">
+              <p class="card-text"><b>Slavonski Brod</b> - možete pročitati općenite informacije o gradu na sljedećem <a href="https://hr.wikipedia.org/wiki/Slavonski_Brod" target="_blank">link-u</a></p>
+            </div>
+          </div>
+        </div>
+        
+
+        <div class="col">
+          <div class="card shadow-sm" style="width: 65%; margin-left: 3%">
+            <img src="fajlovi/osijek.jpg" width="100%" height="225px">
+
+            <div class="card-body">
+              <p class="card-text"><b>Osijek</b> - možete pročitati općenite informacije o gradu na sljedećem <a href="https://hr.wikipedia.org/wiki/Osijek" target="_blank">link-u</a></p>
+            </div>
+          </div>
+        </div>
+
+       </div>
+     </div>
+     </div>
+
+
+</main>
+
+<footer class="bg-dark text-center text-lg-start">
+
+  <div class="container p-4">
+
+    <div class="row">
+
+      <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
+        <h5 class="text-uppercase footer-color">Dodatne informacije</h5>
+
+        <p class="footer-color">
+          <br>Pregled i usporedba podataka gradova, pristup gradovima i njihovim podacima.<br>
+          Radno vrijeme: pon-pet: 07:00h - 16:00h<br>
+          Kontakti: +385 992 654 ili 043 222 122<br>
+          email: sub.statistika@gmail.com
+        </p>
+      </div>
+
+
+      <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+        <h5 class="text-uppercase footer-color">Adresa</h5>
+        <p class="footer-color">
+          <br>Trg Eugena Kvaternika 4, 43000, Bjelovar<br>
+        </p>
+      </div>
+
+
+ </div>
+</div>
+  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2); width: 100%">
+    @ 2021 Copyright:
+    <p class="text-dark" style="margin: 0">Subnacionalna-statistika 2013-2020. Sva prava pridržana.</p>
+  </div>
+
+</footer>
+
+</body>
