@@ -1,0 +1,48 @@
+table {
+    border: none;
+    border-spacing: 0px;
+    margin: auto;
+    width: 100%;
+    padding: 30px;
+}
+
+table th{
+    background-color: #120721;
+    color: white;
+    font-size: 22px;
+    letter-spacing: 1px;
+    padding: 8px 8px 8px 8px;
+}
+
+table td{
+    color: white;
+    font-size: 18px;
+    padding: 8px 8px 8px 8px;
+}
+
+table tr:nth-child(odd){
+    background-color: #222034;
+}
+
+table tr:nth-child(even){
+    background-color: rgba(33,31,46,0.5);
+}
+
+table tr button{
+    background-color: transparent;
+    color: white;
+}
+
+table img{
+    margin: auto;
+    width: 100%;
+    padding: 30px;
+}
+
+.t1{
+    background-color: #120721;
+    color: white;
+    font-size: 22px;
+    letter-spacing: 1px;
+    padding: 8px 8px 8px 8px;
+}
