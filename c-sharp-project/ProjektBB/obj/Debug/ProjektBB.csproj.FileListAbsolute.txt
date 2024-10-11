@@ -1,0 +1,25 @@
+C:\Users\Da'Bomb\source\repos\ProjektBB\ProjektBB\bin\Debug\ProjektBB.exe.config
+C:\Users\Da'Bomb\source\repos\ProjektBB\ProjektBB\bin\Debug\ProjektBB.exe
+C:\Users\Da'Bomb\source\repos\ProjektBB\ProjektBB\bin\Debug\ProjektBB.pdb
+C:\Users\Da'Bomb\source\repos\ProjektBB\ProjektBB\obj\Debug\ProjektBB.csproj.AssemblyReference.cache
+C:\Users\Da'Bomb\source\repos\ProjektBB\ProjektBB\obj\Debug\ProjektBB.LOGIN.resources
+C:\Users\Da'Bomb\source\repos\ProjektBB\ProjektBB\obj\Debug\ProjektBB.Properties.Resources.resources
+C:\Users\Da'Bomb\source\repos\ProjektBB\ProjektBB\obj\Debug\ProjektBB.csproj.GenerateResource.cache
+C:\Users\Da'Bomb\source\repos\ProjektBB\ProjektBB\obj\Debug\ProjektBB.csproj.CoreCompileInputs.cache
+C:\Users\Da'Bomb\source\repos\ProjektBB\ProjektBB\obj\Debug\ProjektBB.exe
+C:\Users\Da'Bomb\source\repos\ProjektBB\ProjektBB\obj\Debug\ProjektBB.pdb
+C:\Users\Da'Bomb\source\repos\ProjektBB\ProjektBB\obj\Debug\ProjektBB.Videoteka.resources
+C:\Users\Da'Bomb\source\repos\ProjektBB\ProjektBB\obj\Debug\ProjektBB.Korisnik.resources
+C:\Users\Da'Bomb\Desktop\VUB\C sharp\ProjektBB\ProjektBB\bin\Debug\ProjektBB.exe.config
+C:\Users\Da'Bomb\Desktop\VUB\C sharp\ProjektBB\ProjektBB\bin\Debug\ProjektBB.exe
+C:\Users\Da'Bomb\Desktop\VUB\C sharp\ProjektBB\ProjektBB\bin\Debug\ProjektBB.pdb
+C:\Users\Da'Bomb\Desktop\VUB\C sharp\ProjektBB\ProjektBB\obj\Debug\ProjektBB.csproj.AssemblyReference.cache
+C:\Users\Da'Bomb\Desktop\VUB\C sharp\ProjektBB\ProjektBB\obj\Debug\ProjektBB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Da'Bomb\Desktop\VUB\C sharp\ProjektBB\ProjektBB\obj\Debug\ProjektBB.Korisnik.resources
+C:\Users\Da'Bomb\Desktop\VUB\C sharp\ProjektBB\ProjektBB\obj\Debug\ProjektBB.LOGIN.resources
+C:\Users\Da'Bomb\Desktop\VUB\C sharp\ProjektBB\ProjektBB\obj\Debug\ProjektBB.Properties.Resources.resources
+C:\Users\Da'Bomb\Desktop\VUB\C sharp\ProjektBB\ProjektBB\obj\Debug\ProjektBB.Videoteka.resources
+C:\Users\Da'Bomb\Desktop\VUB\C sharp\ProjektBB\ProjektBB\obj\Debug\ProjektBB.csproj.GenerateResource.cache
+C:\Users\Da'Bomb\Desktop\VUB\C sharp\ProjektBB\ProjektBB\obj\Debug\ProjektBB.csproj.CoreCompileInputs.cache
+C:\Users\Da'Bomb\Desktop\VUB\C sharp\ProjektBB\ProjektBB\obj\Debug\ProjektBB.exe
+C:\Users\Da'Bomb\Desktop\VUB\C sharp\ProjektBB\ProjektBB\obj\Debug\ProjektBB.pdb
